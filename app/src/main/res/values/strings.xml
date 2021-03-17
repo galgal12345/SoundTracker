@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SoundTracker</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_good_vibes">😌🍃 Good Vibes 😌🍃</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_study">📚 Study 📚</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_on_the_way">🚗 On The Way 🚗</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_meditate">🧘 Meditate 🧘‍</string>
+</resources>
